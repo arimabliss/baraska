@@ -14,10 +14,10 @@ window.RESTAURANT_CONFIG = {
 
   /* ---------- HEAD / SEO ---------- */
   seo: {
-    title: "",
-    description: "",
+    title: "baraska • 5 star",
+    description: "something u can't forget",
     ogImage: "",
-    siteName: "",
+    siteName: "baraska",
     themeColor: ""
   },
 
@@ -26,8 +26,8 @@ window.RESTAURANT_CONFIG = {
 
   /* ---------- BRAND ---------- */
   brand: {
-    name: "",
-    tagline: "",
+    name: "BaraSka",
+    tagline: "have sex at nigh",
     logoMark: ""            // single letter/symbol shown in the square logo
   },
 
